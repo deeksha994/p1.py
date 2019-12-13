@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+def square(10)
+  print("the square of " + str(n) + "is" + "str(n*n))
+def main():
+    square(10)
+    
+if __name__ == '__main__' :
+  main()
